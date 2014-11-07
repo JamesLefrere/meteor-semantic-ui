@@ -2,7 +2,7 @@ Package.describe({
   name: "jameslefrere:semantic-ui",
   summary: "Semantic UI 1.0",
   version: "0.1.0",
-  git: ""
+  git: "https://github.com/JamesLefrere/meteor-semantic-ui.git"
 });
 
 Package.onUse(function(api) {
